@@ -1,0 +1,2 @@
+{'Fruit_name': 'apple', 'Fruit_Quantity(kg)': 5, 'Fruit_Prise': 1000}
+{'Fruit_name': 'mosambi', 'Fruit_Quantity(kg)': 10, 'Fruit_Prise': 400}
